@@ -1,0 +1,25 @@
+head{
+    background-color:purple;
+}
+
+body {
+    background: linear-gradient(to bottom right, yellow, rgb(255, 236, 32), #f3a3d6, rgb(136,144,226));
+}
+
+hr {
+    border-color: deepskyblue;
+}
+
+img {
+    display: block;  
+    margin: auto;
+    width: 30%;
+}
+
+.center{
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
