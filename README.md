@@ -18,7 +18,7 @@ Open index file in browser
 5. Submit a pull request :D
 
 ## History
-Created on October 7th 2024 to practice for the midterm.
+Created on October 15th 2024 for our midterm.
 
 ## Credits
 Abigail Londini and Yi Lu
